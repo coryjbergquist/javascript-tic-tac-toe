@@ -48,3 +48,11 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+.center-container {
+  text-align: center;
+}
+
+.inline-block {
+  display: inline-block;
+}
